@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akindams
 - 👀 I’m interested in Ethical hacking  
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on an app project
+- 🌱 I’m currently learning Jquery
+- 💞️ I’m looking to collaborate on an innovative web project
 - 📫 How to reach me....+2348104130948 via whatsapp
 
 <!---
